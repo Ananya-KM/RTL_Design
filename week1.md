@@ -1,5 +1,6 @@
 # DAY 1
 # COMMON NUMBER SYSTEM
+![Screenshot 2025-07-08 133912](https://github.com/user-attachments/assets/45588729-123f-4ff0-8087-9c56358863e5)
 
 * **Decimal (Base 10):** The standard number system using digits 0–9.
 * **Binary (Base 2):** A system using only 0 and 1, used by computers.
@@ -14,7 +15,10 @@ Here are  the steps:
 2. **Assign powers of 2** to each bit starting from the right (2^0, 2^1, 2^2, …).
 3. **Multiply each bit** by its corresponding power of 2.
 4. **Add all the results** to get the decimal number.
-   
+##### EXAMPLE   
+![Screenshot 2025-07-08 135809](https://github.com/user-attachments/assets/30937634-45aa-4a84-8c29-f2d25a280d23)
+
+
 
 ### DECIMAL TO BINARY
 Here are the steps:
