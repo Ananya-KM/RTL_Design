@@ -35,14 +35,17 @@ Here are the steps :
 2. **Stop when quotient is 0**.
 3. **Write remainders in reverse order** to get the octal number.
 ##### EXAMPLE  
+![decToOctal](https://github.com/user-attachments/assets/16a14a97-8509-46fe-a623-daaf41e1cee9)
 
 ### OCTAL TO DECIMAL
 Here are the steps :
 1. **Write down the octal number.**
 2. **Assign powers of 8** to each digit starting from the right (8^0, 8^1, 8^2, …).
-3. **Multiply each digit** by its corresponding power of 8.
+3. **Multiply each digit** by its corresponding power of 8
 4. **Add all the results** to get the decimal number.
 ##### EXAMPLE  
+![octal-to-Decimal-249x300](https://github.com/user-attachments/assets/bc2df877-8ceb-48d1-a3a1-62daa9d28e96)
+
 
 ### HEXADECIMAL TO DECIMAL
 Here are the steps :
@@ -51,7 +54,9 @@ Here are the steps :
 3. **Convert each hex digit to decimal** (A=10, B=11, …, F=15).
 4. **Multiply each digit’s decimal value** by its corresponding power of 16.
 5. **Add all the results** to get the decimal number.
-##### EXAMPLE  
+##### EXAMPLE 
+
+
 
 ### BINARY TO OCTAL
 Here are the steps :
@@ -59,6 +64,7 @@ Here are the steps :
 2. **Convert each group of 3 bits** to its octal equivalent.
 3. **Write the octal digits in order** for the final octal number.
 ##### EXAMPLE  
+![R](https://github.com/user-attachments/assets/0e728834-ab7c-49e1-8fa0-a8bf6fd4f14e)
 
 ### BINARY TO HEXADECIMAL
 Here are the steps :
@@ -66,6 +72,7 @@ Here are the steps :
 2. **Convert each group of 4 bits** to its hexadecimal equivalent.
 3. **Write the hexadecimal digits in order** for the final hex number.
 ##### EXAMPLE  
+
 
 ### OCTAL TO HEXADECIMAL
 Here are the steps :
